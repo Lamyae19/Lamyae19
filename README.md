@@ -14,7 +14,7 @@ I'm always exploring new technologies and learning. Currently, I'm diving into A
 ## 🤝 Let's Connect
 
 - 📫 Reach me at <a mailto="lamyaechouinna1@gmail.com" rel="nofollow">lamyaechouinna1@gmail.com</a>
-- 💼 Connect with me on <a href="https://www.linkedin.com/in/lamyae-chouinna-a577a720b/" rel="nofollow">lamyae chouinna</a>
+- 💼 Connect with me on <a href="www.linkedin.com/in/lamyaechouinna-a577a720b" rel="nofollow">lamyae chouinna</a>
 
 ## 📈 GitHub Stats
 
