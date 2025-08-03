@@ -1,6 +1,6 @@
 # Hi there, I'm Lamyae Chouinna! 👋
 
-🎓 I'm a recent graduate in **Data Analytics & Artificial Intelligence** from ESTSB (École Supérieure de Technologie).  
+🎓 I'm a recent graduate in **Data Analytics & Artificial Intelligence**. 
 💻 I specialize in **Data Science**, **Machine Learning**, and **Full-Stack Web Development**.  
 🚀 I love building smart, useful applications and learning by doing real-world projects.  
 🌱 Currently seeking a **1-month internship** to gain hands-on experience and grow as a developer.
