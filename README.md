@@ -3,7 +3,6 @@
 🎓 I'm a recent graduate in **Data Analytics & Artificial Intelligence**. 
 💻 I specialize in **Data Science**, **Machine Learning**, and **Full-Stack Web Development**.  
 🚀 I love building smart, useful applications and learning by doing real-world projects.  
-🌱 Currently seeking a **1-month internship** to gain hands-on experience and grow as a developer.
 
 ---
 
@@ -20,8 +19,8 @@
 - 🖥️ **HTML / CSS / JavaScript**
 - ⚙️ **Flask** (Python Web Framework)
 - 🌍 **MongoDB / MySQL**
-- 🎯 **Bootstrap**, **REST APIs**
-- 🧪 **Postman**, **Git**, **GitHub**
+- 🎯 **REST APIs**
+- 🧪 **Git**, **GitHub**
 
 ### 📊 Data & AI
 - 🧠 **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**
@@ -32,18 +31,17 @@
 ---
 
 ## 📂 Projects
-
+- 🌹 **Rose Image Classification** – Built an image classification model using an **Artificial Neural Network (ANN)** to recognize different rose images.  
+- 📈 **Time Series Analysis – Air Passengers** – Used historical passenger data to analyze and visualize monthly trends and seasonal patterns.
 - 🤖 **Chatbot Web App** – AI-based chatbot using Flask + MongoDB + ElasticSearch  
 - 🎧 **Audio & Image to Text Converter** – Web app automating media-to-text using Flask & JS  
-- 🧠 **Emotion Detector** – Image classification (happy / not happy) using CNN with TensorFlow  
-- 📊 **Tweet Sentiment Analysis** – Cleaned, processed, and classified tweets using ML models
 
 ---
 
 ## 📬 Contact Me
 
 - ✉️ Email: [lamyaechouinna1@gmail.com](mailto:lamyaechouinna1@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/lamyae-chouinna-a577a720b](https://www.linkedin.com/in/lamyae-chouinna-a577a720b/)  
+- 💼 LinkedIn: [linkedin.com/in/lamyae-chouinna](www.linkedin.com/in/lamyae-chouinna)  
 
 ---
 
